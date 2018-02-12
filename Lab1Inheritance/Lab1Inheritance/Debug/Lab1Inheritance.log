@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\comphome\homedir$\x00114185\documents\sem8\c++\lab1inheritance\lab1inheritance\source.cpp(63): error C3867: 'Product::getGrossPrice': non-standard syntax; use '&' to create a pointer to member
+\\comphome\homedir$\x00114185\documents\sem8\c++\lab1inheritance\lab1inheritance\source.cpp(63): error C2296: '<': illegal, left operand has type 'double (__thiscall Product::* )(void) const'
+\\comphome\homedir$\x00114185\documents\sem8\c++\lab1inheritance\lab1inheritance\source.cpp(63): error C2297: '<': illegal, right operand has type 'double (__thiscall Product::* )(void) const'
